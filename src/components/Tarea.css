@@ -1,0 +1,8 @@
+.tarea--completada {
+    text-decoration: line-through;
+  }
+  
+  .tarea__texto--completada {
+    text-decoration: underline;
+  }
+  
